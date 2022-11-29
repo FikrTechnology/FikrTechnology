@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FikrTechnology
 - 👀 I’m interested in the field of IT
-- 🌱 I’m currently learning Python, Flutter & Java Spring Boot
+- 🌱 I’m currently learning Python, Flutter
 - 💞️ I’m looking to collaborate on Mobile Application Development
 - 📫 muhammadfikrie1108@gmail.com
 <!---
